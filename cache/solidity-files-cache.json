@@ -1,0 +1,85 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/jasrajput/Desktop/arbc/arbc/contracts/arbc.sol": {
+      "lastModificationDate": 1713801922730,
+      "contentHash": "bd12639e94713d5eff1cbef3aa315059",
+      "sourceName": "contracts/arbc.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.6.12"
+      ],
+      "artifacts": [
+        "ARBC",
+        "Context",
+        "IERC20",
+        "IPancakeswapV2Factory",
+        "IPancakeswapV2Router01",
+        "IPancakeswapV2Router02",
+        "Ownable",
+        "SafeMath",
+        "Staking"
+      ]
+    },
+    "/Users/jasrajput/Desktop/arbc/arbc/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1713768800582,
+      "contentHash": "896f68942c3a20e9ae3c3c5bfd3add54",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    }
+  }
+}
