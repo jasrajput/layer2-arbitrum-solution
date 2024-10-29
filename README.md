@@ -1,4 +1,4 @@
-# Layer 2 Solution on Arbitrum
+# Layer 2 Staking Solution on Arbitrum
 
 ## Overview
 This project is a Layer 2 solution built on the Arbitrum blockchain, featuring a native token called **ARBC**. The platform includes a staking mechanism for ARBC and integrates with PancakeSwap for token swapping.
